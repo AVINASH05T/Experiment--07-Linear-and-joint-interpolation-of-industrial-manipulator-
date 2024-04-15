@@ -1,4 +1,4 @@
-# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+# Experiment 07 Linear and joint interpolation of industrial manipulator
 ## NAME: AVINASH T
 ## REG NO: 212223230026
 ### Aim :
